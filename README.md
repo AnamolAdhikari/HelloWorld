@@ -1,6 +1,6 @@
 # Overview
 
-This is a basic Hello World program written in Python. The purpose of this is to demonstrate the use of Virtual Studio Code, GitHub, Git and Python integrated together.
+This is a basic Hello World program written in Python. The purpose of this is to demonstrate the use of Visual Studio Code, GitHub, Git and Python integrated together.
 
 
 You can view the demo of the software here -> [Software Demo Video](https://youtu.be/EvYcgjkAiTE)
